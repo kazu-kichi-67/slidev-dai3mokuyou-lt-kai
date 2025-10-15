@@ -1,4 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Presentation Slide for 渋谷でビール片手にLT会！ ※初心者大歓迎
+
+Event Page: https://metaps.connpass.com/event/367189/
+
+# Usage
 
 To start the slide show:
 
