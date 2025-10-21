@@ -15,5 +15,6 @@ Edit the [slides.md](./slides.md) to see the changes.
 Export to PDF:
 
 - `npm run export`
+- npm exec -c 'slidev export --with-clicks --dark'
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
